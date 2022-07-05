@@ -111,5 +111,5 @@ security:
   allow_frame: true
 
 
-[icon.pack]
+[icon.pack]:
   ai: true
