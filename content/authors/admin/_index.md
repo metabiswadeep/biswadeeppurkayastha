@@ -14,7 +14,7 @@ organizations:
     url: https://iitmandi.ac.in/new/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include web development, android development, artificial intelligence, machine learning, data science and cyber security.
 
 # Interests to show in About widget
 interests:
