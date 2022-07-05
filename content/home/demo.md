@@ -3,6 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: About Me
+active: false
 widget_id: About Me
 headless: true
 weight: 15
