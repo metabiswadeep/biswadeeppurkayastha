@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: bpdps95@hotmail.com
-  phone: +919831268042
+  phone: 9831268042
   address:
     street: Suraj Taal B8 Room 216, Indian Institute of Technology Mandi
     city: Himachal Pradesh
