@@ -18,12 +18,13 @@ subtitle:
 feature:
   - icon: code
     icon_pack: fas
-    name: Python, HTML, CSS, Javascript
+    name: Python, C++
   - icon: terminal
     icon_pack: fas
-    name: Software Development
-#  - description: 10%
-#   icon: camera-retro
+    name: HTML, CSS, Javascript, React Js, Node Js, Django, Android
+  - icon: database
+    icon_pack: fas
+    name: MySql, MongoDB
 #    icon_pack: fas
 #    name: Photography
     
