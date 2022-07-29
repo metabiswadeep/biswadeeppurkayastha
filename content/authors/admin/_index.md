@@ -10,7 +10,7 @@ role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Indian Institute of Technology Mandi
+  - name: Indian Institute of Technology(IIT) Mandi(Himachal Pradesh, India)
     url: https://iitmandi.ac.in/new/
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,10 +30,10 @@ education:
       institution: Indian Institute of Technology Mandi
       year: 2025
     - course: Class 12th
-      institution: Delhi Public School Ruby Park
+      institution: Delhi Public School Ruby Park, Kolkata
       year: 2021
     - course: Class 10th
-      institution: Delhi Public School Ruby Park
+      institution: Delhi Public School Ruby Park, Kolkata
       year: 2019
 
 # Social/Academic Networking
