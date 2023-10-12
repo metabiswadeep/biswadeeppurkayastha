@@ -8,6 +8,8 @@ external_link: 'https://github.com/metabiswadeep/Sentiment-Analysis-of-Amazon-Re
 links:
 url_code: 'https://github.com/metabiswadeep/Sentiment-Analysis-of-Amazon-Reviews/'
 
+weight: 40
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
