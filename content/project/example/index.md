@@ -1,7 +1,12 @@
 ---
-title: Ecommerce App
-summary: A fully functional ecommerce web app that allows you to browse through different products, add the products you like to your cart and buy what you like by entering your details, selecting your shipping and paying with Stripe. Uses Next.JS, React.JS, Stripe, Sanity.
-external_link: 'https://github.com/metabiswadeep/ecommerce-app'
+title: Example Project
+summary: An example of using the in-built project page.
+tags:
+  - Deep Learning
+date: '2016-04-27T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
