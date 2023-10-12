@@ -3,8 +3,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
-active: false
-
 # This file represents a page section.
 headless: true
 
@@ -26,14 +24,14 @@ experience:
   - title: Web Development Intern
     company: Laserpay
     location: Remote
-    date_start: '2023-07'
-    date_end: '2023-09'
+    date_start: '2023-07-25'
+    date_end: '2023-09-25'
 
   - title: Open Source Developer
     company: Linux Foundation
     location: Remote
     date_start: '2023-01'
-    date_end: 'present'
+    date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
