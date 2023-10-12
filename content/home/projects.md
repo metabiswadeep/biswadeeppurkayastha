@@ -17,23 +17,11 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
 
   - title: Ecommerce App
-    summary: A fully functional ecommerce web app that allows you to browse through different products, add the products you like to your cart and buy what you like by entering your details, selecting your shipping and paying with Stripe. Uses Next.JS, React.JS, Stripe, Sanity.
+    text: A fully functional ecommerce web app that allows you to browse through different products, add the products you like to your cart and buy what you like by entering your details, selecting your shipping and paying with Stripe. Uses Next.JS, React.JS, Stripe, Sanity.
     external_link: 'https://github.com/metabiswadeep/ecommerce-app'
-  - title: Driver Drowsiness Detection and Alarm System
-    summary: A machine learning model that can detect drowsiness of the individual driving a car and sound an alarm to wake him/her up. It uses a computer vision neural network to identify facial features for drowsiness. It can help drastically reduce the number of road accidents caused due to sleep deprivation of individuals. Uses Python, Yolov5, OpenCV, PyTorch, Tkinter.
-    external_link: 'https://github.com/metabiswadeep/driver-drowsiness-detection-and-alarm-system'
-  - title: Chatter Away
-   summary: A chatroom webapp that allows users validated using unique validation keys to create channels and use text, emojis and attachments to express thoughts better. Uses React.JS, Stream API.
-   external_link: 'https://github.com/metabiswadeep/ChatterAway'
-  - title: Sentiment Analysis of Amazon reviews
-    summary: Performed sentiment analysis using the VADER and Roberta models to classify amazon reviews as positive, neutral or negative. Uses NLTK, Hugging Face transformers, Python.
-    external_link: 'https://github.com/metabiswadeep/Sentiment-Analysis-of-Amazon-Reviews/'
-  - title: Admission Management System
-    summary: Provides a system through which vast amount of data and records of students could be maintained in a systematic and clean manner for smoother administration procedures. Uses Python, MySQL, Tkinter.
-
+ 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
