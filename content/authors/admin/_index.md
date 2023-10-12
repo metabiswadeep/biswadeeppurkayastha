@@ -26,15 +26,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech in Engineering
+    - course: B.Tech double major in Civil Engineering and Computer Science Engineering
       institution: Indian Institute of Technology Mandi
-      year: 2025
+      year: 2026
+      grade: 8.22/10
     - course: Class 12th
       institution: Delhi Public School Ruby Park, Kolkata
       year: 2021
+      grade: 95%
     - course: Class 10th
       institution: Delhi Public School Ruby Park, Kolkata
       year: 2019
+      grade: 96.2%
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:bpdps95@hotmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/metabiswadeep
@@ -54,18 +57,18 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+# email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Biswadeep Purkayastha is a student at the Indian Institute of Technology Mandi. His interests include web development, android development, artificial intelligence, machine learning, data science and cyber security.
+Biswadeep Purkayastha is a undergraduate student pusuing his Bachelors of Technology with a double major in Civil Engineering and Computer Science Engineering from the Indian Institute of Technology Mandi. His interests include Full Stack Development, Web Development, Machine Learning, Data Science and Open Source Development.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
