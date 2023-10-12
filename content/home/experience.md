@@ -30,11 +30,11 @@ experience:
     date_start: '2023-07'
     date_end: '2023-09'
     # description: |2-
-        Responsibilities include:
+        # Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        # * Analysing
+        # * Modelling
+        # * Deploying
 
   - title: Open Source Developer
     company: Linux Foundation
