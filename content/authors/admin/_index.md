@@ -14,7 +14,7 @@ organizations:
     url: https://iitmandi.ac.in/new/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include web development, android development, artificial intelligence, machine learning, data science and cyber security.
+bio: A seasoned open source developer and an aspiring software engineer.
 
 # Interests to show in About widget
 interests:
@@ -68,7 +68,7 @@ social:
 highlight_name: true
 ---
 
-Biswadeep Purkayastha is a undergraduate student pusuing his Bachelors of Technology with a double major in Civil Engineering and Computer Science Engineering from the Indian Institute of Technology Mandi. His interests include Full Stack Development, Web Development, Machine Learning, Data Science and Open Source Development.
+I am an aspiring Software Engineer pusuing my Bachelors of Technology(B.Tech) with a double major in Civil Engineering and Computer Science Engineering from the Indian Institute of Technology Mandi(IIT Mandi). I am passionate about Full Stack Development, Web Development, Machine Learning and Data Science and am an experienced Open Source Developer.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BiswadeepPurkayastha_IITMandi Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
