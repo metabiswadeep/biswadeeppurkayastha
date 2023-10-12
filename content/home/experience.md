@@ -12,7 +12,6 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,12 +28,6 @@ experience:
     location: Remote
     date_start: '2023-07'
     date_end: '2023-09'
-    # description: |2-
-        # Responsibilities include:
-        
-        # * Analysing
-        # * Modelling
-        # * Deploying
 
   - title: Open Source Developer
     company: Linux Foundation
