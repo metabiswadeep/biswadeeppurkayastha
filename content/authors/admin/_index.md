@@ -71,4 +71,4 @@ highlight_name: true
 Biswadeep Purkayastha is a undergraduate student pusuing his Bachelors of Technology with a double major in Civil Engineering and Computer Science Engineering from the Indian Institute of Technology Mandi. His interests include Full Stack Development, Web Development, Machine Learning, Data Science and Open Source Development.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BiswadeepPurkayastha_IITMandi Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
