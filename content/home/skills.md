@@ -18,13 +18,13 @@ subtitle:
 feature:
   - icon: code
     icon_pack: fas
-    name: Python, C++
+    name:  C++, Python, HTML, CSS, Javascript, React Js, Next Js
   - icon: terminal
     icon_pack: fas
-    name: HTML, CSS, Javascript, React Js, Node Js, Django, Android
+    name: Linux, Snapcraft, Bash, Git, GitHub
   - icon: database
     icon_pack: fas
-    name: MySql, MongoDB
+    name: MySql
 #    icon_pack: fas
 #    name: Photography
     
