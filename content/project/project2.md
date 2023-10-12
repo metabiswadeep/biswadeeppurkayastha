@@ -8,6 +8,8 @@ external_link: 'https://github.com/metabiswadeep/driver-drowsiness-detection-and
 links:
 url_code: 'https://github.com/metabiswadeep/driver-drowsiness-detection-and-alarm-system'
 
+weight: 20
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
