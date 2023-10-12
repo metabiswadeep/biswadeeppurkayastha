@@ -30,7 +30,7 @@ experience:
   - title: Open Source Developer
     company: Linux Foundation
     location: Remote
-    date_start: '2023-01'
+    date_start: '2023-01-05'
     date_end: ''
     # description: Taught electronic engineering and researched semiconductor physics.
 
