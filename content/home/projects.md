@@ -18,9 +18,15 @@ content:
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 
-  - title: Ecommerce App
-    text: A fully functional ecommerce web app that allows you to browse through different products, add the products you like to your cart and buy what you like by entering your details, selecting your shipping and paying with Stripe. Uses Next.JS, React.JS, Stripe, Sanity.
-    external_link: 'https://github.com/metabiswadeep/ecommerce-app'
+  title: Ecommerce App
+  text: A fully functional ecommerce web app that allows you to browse through different products, add the products you like to your cart and buy what you like by entering your details, selecting your shipping and paying with Stripe. Uses Next.JS, React.JS, Stripe, Sanity.
+  
+  title: Ecommerce App
+  text: A fully functional ecommerce web app that allows you to browse through different products, add the products you like to your cart and buy what you like by entering your details, selecting your shipping and paying with Stripe. Uses Next.JS, React.JS, Stripe, Sanity.
+  external_link: 'https://github.com/metabiswadeep/ecommerce-app'
+    
+    
+    
  
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
