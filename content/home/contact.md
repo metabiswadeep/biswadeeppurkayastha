@@ -28,7 +28,7 @@ content:
   email: bpdps95@hotmail.com
   phone: 9831268042
   address:
-    street: Suraj Taal B8 Room 216, Indian Institute of Technology Mandi
+    street: B14 306, Indian Institute of Technology Mandi
     city: Himachal Pradesh
     postcode: '175005'
     country: India
@@ -39,6 +39,10 @@ content:
       icon_pack: fab
       name: Connect
       link: 'https://linkedin.com/in/bp05'
+    - icon: email
+      icon_pack: fab
+      name: Email
+      link: 'mailto:bpdps95@hotmail.com'
 
 design:
   columns: '2'
