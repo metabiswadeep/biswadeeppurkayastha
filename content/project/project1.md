@@ -7,6 +7,8 @@ external_link: 'https://github.com/metabiswadeep/ecommerce-app'
 links:
 url_code: 'https://github.com/metabiswadeep/ecommerce-app'
 
+weight: 10
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
