@@ -8,6 +8,8 @@ external_link: 'https://github.com/metabiswadeep/ChatterAway'
 
 url_code: 'https://github.com/metabiswadeep/ChatterAway'
 
+weight: 30
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
