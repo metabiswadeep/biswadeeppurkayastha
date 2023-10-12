@@ -39,7 +39,7 @@ content:
       icon_pack: fab
       name: Connect
       link: 'https://linkedin.com/in/bp05'
-    - icon: email
+    - icon: envelope
       icon_pack: fab
       name: Email
       link: 'mailto:bpdps95@hotmail.com'
