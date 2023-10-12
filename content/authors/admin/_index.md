@@ -6,7 +6,7 @@ title: Biswadeep Purkayastha
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: Full Stack Developer
 
 # Organizations/Affiliations to show in About widget
 organizations:
